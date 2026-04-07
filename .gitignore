@@ -1,6 +1,5 @@
 # Maven
 target/
-.mvn/
 # IDE
 .classpath
 .project
